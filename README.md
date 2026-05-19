@@ -52,7 +52,7 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-[PROMPT_EX5](promptex5report)
+[PROMPT_EX5](promptex5report.pdf)
 
 # RESULT: 
 The prompt for the above said problem executed successfully
